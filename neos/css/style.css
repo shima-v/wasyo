@@ -33,7 +33,7 @@ a:focus, a:active {
 }
 
 p, span {
-  margin-bottom: 1.5em;
+  /* margin-bottom: 1.5em; */
   font-size: 20px;
   color: #727272;
   font-weight: 300;
@@ -133,6 +133,7 @@ header .fh5co-navbar-brand .fh5co-logo {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
+  display: inline-block;
 }
 header .fh5co-navbar-brand .fh5co-logo:after {
   position: absolute;
