@@ -149,7 +149,7 @@ header .fh5co-navbar-brand .fh5co-logo:hover {
 }
 header #fh5co-main-nav > ul {
   padding: 0;
-  margin: 0;
+  margin: 0 auto 0;
 }
 header #fh5co-main-nav > ul li {
   list-style: none;
